@@ -6,9 +6,11 @@ The user who executes the script should have the contributor role to the given r
 
 ## How to use:
 Store the script in your device and give execution to the script
+
 `chmod +x acr-gather.sh`
 
 Then run the script and follow the guidance to perform the actions.
+
 `./acr-gather.sh`
 
 
